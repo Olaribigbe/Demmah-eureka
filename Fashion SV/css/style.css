@@ -1,0 +1,79 @@
+body{
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-default{
+    background: #fff;
+    border: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+
+.navbar-brand{
+    font-size:20px;
+    color: #fff !important;
+    font-weight: bold;
+
+}
+
+#showcase h1{
+        font-size: 50px; 
+        margin-bottom: 20px;
+}
+
+#showcase img{
+    width: 60%;
+    margin-left: 50px;
+}
+
+#showcase .showcase-right{
+    width: 90%;
+}
+
+#testimonial{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 30px;
+}
+#testimonial p{
+    font-size:25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000; 
+}
+
+#testimonial p.customer{
+    font-size: 20px;
+    color: #666;
+}
+
+#info1 .info-right{
+        margin-top:90px;  
+}
+
+#info2{
+    margin: 20px 0 60px 0;
+
+}
+#contact{
+    background: #000;
+    padding: 40px;
+    color: white;
+    border-top: #333 7px solid;
+    border-bottom: #333 7px solid;
+    
+}
+
+footer{
+    padding: 20px;
+    background: #000;
+    color: white;
+}
